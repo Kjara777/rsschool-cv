@@ -14,4 +14,3 @@
 * Endlish B2;
 * German A1;
 * Polish A1;
-* Ukrainian A1;
