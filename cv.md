@@ -1,5 +1,5 @@
 # Darya Mizhigurskaya
-
+![photo](\assets\img "Фото")
 ## Contacts
 * email: d.mizhigurskaya@gmail.com
 * Discord: Kjara777
