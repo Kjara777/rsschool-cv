@@ -1,5 +1,5 @@
 # Darya Mizhigurskaya
-![photo](1626517438941.jpg"Фото")
+![photo](1626517438941.jpg "Фото")
 ## Contacts
 * email: d.mizhigurskaya@gmail.com
 * Discord: Kjara777
